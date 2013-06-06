@@ -3,6 +3,20 @@ django-rest-backbone-skeleton
 
 Skeleton for a hooked-up django + backbone.js app, with django rest framework
 
+Starting from `master` branch
+
+Create a virtualenv and activate it
+
+Install dependencies:
+
+`pip install -r skeleton/requirements.pip`
+
+then run server.
+
+
+Putting it together yourself
+============================
+
 Starting from `min` branch
 
 `https://github.com/chiller/django-rest-backbone-skeleton.git`
